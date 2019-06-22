@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://my2uf.com"
+url: "https://2uf.org"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My 2&mu;F
+title: 2&mu;F
 
 # Short description of your site
 description: Open source DIY Electronics
@@ -26,7 +26,7 @@ navbar-links:
   Home: ""
   Resources:
     - Projects: "projects"
-    - GitHub: "https://github.com/my2uf"
+    - GitHub: "https://github.com/2uf"
     - Instructables: "https://www.instructables.com/member/my2uf/"
     - Thingiverse: "https://www.thingiverse.com/my2uf/designs"
     - Instagram: "https://www.instagram.com/my2uf/"
