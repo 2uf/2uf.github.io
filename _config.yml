@@ -27,8 +27,8 @@ navbar-links:
   Resources:
     - Projects: "projects"
     - GitHub: "https://github.com/2uf"
-    - Instructables: "https://www.instructables.com/member/my2uf/"
-    - Thingiverse: "https://www.thingiverse.com/my2uf/designs"
+    - Instructables: "https://www.instructables.com/member/2uf/"
+    - Thingiverse: "https://www.thingiverse.com/2uf/designs"
     - Instagram: "https://www.instagram.com/my2uf/"
   About Me: "aboutme"
 
@@ -66,7 +66,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: © My 2&mu;F
+  name: © 2&mu;F
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -75,7 +75,7 @@ author:
 social-network-links:
 #  rss: true
 #  facebook: daattali
-  github: my2uf
+  github: 2uf
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -84,7 +84,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
   instagram: my2uf
-  email: "justmy2uf@gmail.com"
+  email: "just2uf@gmail.com"
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
